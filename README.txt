@@ -6,3 +6,7 @@ Advantages:
 3.Free and open source
 4.Most operations are local
 5.Active community
+ Repository
+ working directory
+ stagging
+ commit
